@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yogeshnichal
-- 🔭 I’m currently working on IoT project
-- 👀 I’m passionate and curious about Games, ML & AI
-- 🌱 My skills include Python, C#, C++, Graphic Design, 3D Animation, Game Development
-- 💞 I'm looking to collaborate on all the above topics
+- 🔭 I'm currently searching for job opportunities in the video gaming industry.
+- 👀 I’m passionate and curious about Video Games, AI
+- 🌱 My skills include Unity Game Development, 3D Animation, 3D Modeling, Python, C#, C++
 - 📫 How to reach me : yogeshnichal@gmail.com
 
 ---
