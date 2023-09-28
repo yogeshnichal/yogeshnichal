@@ -10,8 +10,11 @@
 
 ---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/CGLife#3334) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_nichal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-nichal-36966768/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/CGLife#3334)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogesh_nichal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-nichal-36966768/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NichalYogesh) 
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=red&label=Subscribe&style=social)](https://www.youtube.com/channel/UCSLToIk9DMJyYwQV0tIFQGw) 
 [![GitHub yogeshnichal](https://img.shields.io/github/followers/yogeshnichal?label=follow&style=social)](https://github.com/yogeshnichal)&nbsp;
@@ -21,12 +24,15 @@
 <h2 align=center><img src="https://cdn-icons-png.flaticon.com/512/534/534621.png" width="5%" > Tech Stack:</h2>
 
 ---
-![Langs](https://img.shields.io/badge/-Langs-blueviolet.svg?style=for-the-badge)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Langs](https://img.shields.io/badge/-Langs-blueviolet.svg?style=for-the-badge)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/-python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 <br>
 
 ![Engines](https://img.shields.io/badge/-engine-blueviolet.svg?style=for-the-badge) 
-![Unity](https://img.shields.io/badge/-unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black) 
+![Unity](https://img.shields.io/badge/-unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 <div align=center>
