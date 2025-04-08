@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogeshnichal
 - 🔭 I'm currently searching for job opportunities in the video gaming industry.
 - 👀 I’m passionate and curious about Video Games, AI
-- 🌱 My skills include Unity Game Development, 3D Animation, 3D Modeling, Python, C#, C++
+- 🌱 My skills include Unity Game Development, 3D Animation, 3D Modeling, Python
 - 📫 How to reach me : yogeshnichal@gmail.com
 
 ---
